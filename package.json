@@ -1,19 +1,8 @@
 {
-  "name": "ls",
+  "name": "vercel-cache",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/iahob/tvbox-config.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/iahob/tvbox-config/issues"
-  },
-  "homepage": "https://github.com/iahob/tvbox-config#readme"
+  "main": "api/cache.js",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
