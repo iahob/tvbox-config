@@ -6,9 +6,9 @@
 	],
 	"lives": [
 		{
-			"name": "zbds",
+			"name": "iptv4",
 			"type": 0,
-			"url": "https://live.zbds.top/tv/iptv4.m3u",
+			"url": "https://tv.ywhb.top/iptv4.txt",
 			"playerType": 1,
 			"logo": "https://live.fanmingming.com/tv/{name}.png"
 		}
